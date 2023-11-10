@@ -1,0 +1,15 @@
+.page-master {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dfe3e8;
+  border-radius: 4px;
+  height: 32px;
+  overflow: hidden;
+  width: 32px;
+}
+
+.page-master .ic-carat-left-instance {
+  left: 4px !important;
+  position: relative !important;
+  top: 4px !important;
+}

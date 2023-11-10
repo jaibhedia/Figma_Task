@@ -1,0 +1,29 @@
+.page-default {
+  height: 32px;
+  width: 32px;
+}
+
+.page-default .div-14 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dfe3e8;
+  border-radius: 4px;
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+}
+
+.page-default .num-2 {
+  color: var(--dark-grey-400);
+  font-family: "SF Pro Text-Bold", Helvetica;
+  font-size: 14px;
+  font-weight: 700;
+  left: 4px;
+  letter-spacing: 0;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 24px;
+}

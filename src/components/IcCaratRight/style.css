@@ -1,0 +1,19 @@
+.ic-carat-right {
+  height: 24px;
+  width: 24px;
+}
+
+.ic-carat-right .ic-carat-left-wrapper {
+  height: 24px;
+  position: relative;
+  transform: rotate(180deg);
+}
+
+.ic-carat-right .ic-carat-left-3 {
+  height: 24px !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+  transform: rotate(-180deg) !important;
+  width: 24px !important;
+}

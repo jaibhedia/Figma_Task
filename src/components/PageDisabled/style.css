@@ -1,0 +1,12 @@
+.page-disabled {
+  height: 32px;
+  width: 32px;
+}
+
+.page-disabled .page-master-instance {
+  background-color: #919eab !important;
+  border: unset !important;
+  border-color: unset !important;
+  opacity: 0.5 !important;
+  width: unset !important;
+}

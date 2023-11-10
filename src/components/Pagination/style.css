@@ -1,0 +1,35 @@
+.pagination {
+  align-items: center;
+  display: inline-flex;
+  gap: 8px;
+  position: relative;
+}
+
+.pagination .design-component-instance-node {
+  position: relative !important;
+}
+
+.pagination .page-active-instance {
+  border-color: var(--blue-primary) !important;
+}
+
+.pagination .page-active-2 {
+  color: var(--blue-primary) !important;
+}
+
+.pagination .page-master-2 {
+  background-color: #ffffff;
+  border: 1px solid;
+  border-color: #dfe3e8;
+  border-radius: 4px;
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.pagination .ic-carat-right-instance {
+  left: 4px !important;
+  position: relative !important;
+  top: 4px !important;
+}

@@ -1,0 +1,301 @@
+.component-wrapper {
+  height: 153px;
+  position: relative;
+  width: 1040px;
+}
+
+.component-wrapper .overlap-4 {
+  background: linear-gradient(180deg, rgb(60, 189.96, 231) 0%, rgb(99.37, 158.25, 227.37) 100%);
+  border-radius: 13px;
+  box-shadow: 0px 5px 10px #0000000d;
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 533px;
+}
+
+.component-wrapper .tech-life {
+  height: 135px;
+  left: 322px;
+  position: absolute;
+  top: 11px;
+  width: 198px;
+}
+
+.component-wrapper .group-14 {
+  height: 101px;
+  left: 26px;
+  position: absolute;
+  top: 22px;
+  width: 231px;
+}
+
+.component-wrapper .group-15 {
+  height: 70px;
+  left: 0;
+  position: absolute;
+  top: 31px;
+  width: 186px;
+}
+
+.component-wrapper .frame-wrapper {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 5px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+}
+
+.component-wrapper .frame-2 {
+  align-items: center;
+  background-color: #313945;
+  border: 1px solid;
+  border-color: #303945;
+  border-radius: 4px;
+  display: flex;
+  gap: 8px;
+  height: 40px;
+  justify-content: center;
+  padding: 5px 10px;
+  position: relative;
+  width: 184px;
+}
+
+.component-wrapper .ic-sharp-person-add {
+  height: 24px;
+  position: relative;
+  width: 24px;
+}
+
+.component-wrapper .text-wrapper-8 {
+  color: var(--bg);
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.component-wrapper .text-wrapper-9 {
+  color: #000000;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.component-wrapper .consumer-manage {
+  color: var(--transfer);
+  font-family: "Lato", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.component-wrapper .overlap-5 {
+  height: 153px;
+  left: 541px;
+  position: absolute;
+  top: 0;
+  width: 719px;
+}
+
+.component-wrapper .group-16 {
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 719px;
+}
+
+.component-wrapper .group-17 {
+  background: linear-gradient(180deg, rgb(228.44, 168, 112.21) 0%, rgb(179.56, 86.04, 0) 100%);
+  border-radius: 13px;
+  box-shadow: 0px 5px 10px #0000000d;
+  height: 153px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 249px;
+}
+
+.component-wrapper .group-18 {
+  height: 102px;
+  left: 34px;
+  position: relative;
+  top: 24px;
+  width: 184px;
+}
+
+.component-wrapper .element-KYC-approval {
+  color: var(--light-black);
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 182px;
+}
+
+.component-wrapper .span {
+  color: #313945;
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.component-wrapper .text-wrapper-10 {
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.component-wrapper .frame-3 {
+  align-items: center;
+  background-color: var(--light-black);
+  border-radius: 4px;
+  display: flex;
+  height: 37px;
+  justify-content: center;
+  left: 0;
+  padding: 5px 10px;
+  position: absolute;
+  top: 65px;
+  width: 98px;
+}
+
+.component-wrapper .frame-4 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 2px;
+  justify-content: center;
+  position: relative;
+}
+
+.component-wrapper .text-wrapper-11 {
+  color: var(--textffffff);
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.component-wrapper .group-19 {
+  height: 153px;
+  left: 259px;
+  position: absolute;
+  top: 0;
+  width: 242px;
+}
+
+.component-wrapper .overlap-group-5 {
+  background: linear-gradient(180deg, rgb(242.25, 146.25, 146.25) 0%, rgb(193.37, 0.72, 0.72) 100%);
+  border-radius: 13px;
+  box-shadow: 0px 5px 10px #0000000d;
+  height: 153px;
+  position: relative;
+  width: 240px;
+}
+
+.component-wrapper .overlap-6 {
+  height: 54px;
+  left: 34px;
+  position: absolute;
+  top: 20px;
+  width: 167px;
+}
+
+.component-wrapper .carbon-warning {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 8px;
+  width: 22px;
+}
+
+.component-wrapper .element-high-risk {
+  color: var(--light-black);
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+  width: 167px;
+}
+
+.component-wrapper .frame-5 {
+  align-items: center;
+  background-color: var(--light-black);
+  border-radius: 4px;
+  display: flex;
+  height: 37px;
+  justify-content: center;
+  left: 34px;
+  padding: 5px 10px;
+  position: absolute;
+  top: 89px;
+  width: 98px;
+}
+
+.component-wrapper .group-20 {
+  height: 153px;
+  left: 509px;
+  position: absolute;
+  top: 0;
+  width: 212px;
+}
+
+.component-wrapper .overlap-7 {
+  background: linear-gradient(180deg, rgb(131.63, 182.21, 255) 0%, rgb(0, 69.7, 170) 100%);
+  border-radius: 13px;
+  box-shadow: 0px 5px 10px #0000000d;
+  height: 153px;
+  position: relative;
+  width: 210px;
+}
+
+.component-wrapper .element-tickets-open {
+  color: var(--light-black);
+  font-family: "Lato", Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  left: 34px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 20px;
+  width: 167px;
+}
+
+.component-wrapper .group-21 {
+  height: 25px;
+  left: 34px;
+  position: absolute;
+  top: 29px;
+  width: 533px;
+}

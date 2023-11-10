@@ -1,0 +1,406 @@
+.component {
+  height: 85px;
+  position: relative;
+  width: 1360px;
+}
+
+.component .overlap-group-wrapper {
+  height: 50px;
+  left: 10px;
+  position: absolute;
+  top: 18px;
+  width: 376px;
+}
+
+.component .overlap-group {
+  background-color: #f6fafc;
+  border-radius: 30px;
+  height: 50px;
+  position: relative;
+  width: 374px;
+}
+
+.component .overlap {
+  background-color: #ffffff;
+  border-radius: 20px;
+  height: 40px;
+  left: 329px;
+  position: absolute;
+  top: 5px;
+  width: 40px;
+}
+
+.component .search {
+  height: 20px;
+  left: 10px;
+  position: absolute;
+  top: 10px;
+  width: 20px;
+}
+
+.component .text-wrapper {
+  color: #000000;
+  font-family: "Nunito", Helvetica;
+  font-size: 18px;
+  font-weight: 500;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  opacity: 0.2;
+  position: absolute;
+  top: 13px;
+}
+
+.component .div {
+  height: 85px;
+  left: 925px;
+  position: absolute;
+  top: 0;
+  width: 435px;
+}
+
+.component .rectangle {
+  background-color: var(--cards-bg);
+  border: 1px solid;
+  border-color: #8a92b4;
+  border-radius: 2px;
+  height: 24px;
+  left: 14px;
+  opacity: 0.44;
+  position: absolute;
+  top: 46px;
+  width: 63px;
+}
+
+.component .overlap-wrapper {
+  height: 85px;
+  left: 306px;
+  position: absolute;
+  top: 0;
+  width: 129px;
+}
+
+.component .overlap-2 {
+  border-radius: 10px;
+  height: 85px;
+  position: relative;
+}
+
+.component .rectangle-2 {
+  -webkit-backdrop-filter: blur(24px) brightness(100%);
+  backdrop-filter: blur(24px) brightness(100%);
+  background-color: #f6fafc;
+  border-radius: 10px;
+  height: 85px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(180deg);
+  width: 129px;
+}
+
+.component .div-wrapper {
+  height: 66px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 65px;
+}
+
+.component .overlap-group-2 {
+  height: 86px;
+  left: -14px;
+  position: relative;
+  top: -6px;
+  width: 85px;
+}
+
+.component .ellipse {
+  height: 53px;
+  left: 19px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 53px;
+}
+
+.component .img {
+  height: 86px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 85px;
+}
+
+.component .vector {
+  height: 8px;
+  left: 92px;
+  position: absolute;
+  top: 36px;
+  width: 12px;
+}
+
+.component .group-2 {
+  height: 83px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 308px;
+}
+
+.component .overlap-3 {
+  border-radius: 10.93px;
+  height: 83px;
+  position: relative;
+  width: 300px;
+}
+
+.component .rectangle-3 {
+  background-color: var(--cards-bg);
+  border: 1px solid;
+  border-color: #c5cef0;
+  border-radius: 10.93px;
+  box-shadow: 0px 2.02px 3.44px #29489803, 0px 8.91px 7.13px #29489805, 0px 21.86px 14.21px #29489806,
+    0px 42.11px 27.86px #29489808, 0px 70.86px 51.22px #2948980a, 0px 109.32px 87.46px #2948980d;
+  height: 83px;
+  left: 0;
+  opacity: 0.44;
+  position: absolute;
+  top: 0;
+  width: 300px;
+}
+
+.component .text-wrapper-2 {
+  color: #fc6b21;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 14px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 19px;
+}
+
+.component .text-wrapper-3 {
+  color: var(--light-black);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 21px;
+}
+
+.component .group-3 {
+  height: 21px;
+  left: 197px;
+  position: absolute;
+  top: 20px;
+  width: 94px;
+}
+
+.component .text-wrapper-4 {
+  color: var(--light-black);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 0;
+}
+
+.component .ph-trend-up-duotone {
+  height: 16px;
+  left: 75px;
+  position: absolute;
+  top: 3px;
+  width: 17px;
+}
+
+.component .text-wrapper-5 {
+  color: var(--light-black);
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 500;
+  left: 168px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 43px;
+}
+
+.component .group-4 {
+  height: 21px;
+  left: 197px;
+  position: absolute;
+  top: 42px;
+  width: 94px;
+}
+
+.component .group-5 {
+  height: 42px;
+  left: 87px;
+  position: absolute;
+  top: 20px;
+  width: 67px;
+}
+
+.component .group-6 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 65px;
+}
+
+.component .overlap-group-3 {
+  height: 22px;
+  position: relative;
+  top: -1px;
+}
+
+.component .line {
+  height: 1px;
+  left: 0;
+  position: absolute;
+  top: 11px;
+  width: 65px;
+}
+
+.component .group-7 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 62px;
+}
+
+.component .text-wrapper-6 {
+  color: #49e45f;
+  font-family: "Poppins", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 24px;
+}
+
+.component .text-wrapper-7 {
+  color: var(--light-black);
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 47px;
+}
+
+.component .emojione-flag-for {
+  height: 18px;
+  left: 19px;
+  position: absolute;
+  top: 49px;
+  width: 18px;
+}
+
+.component .vector-2 {
+  height: 7px;
+  left: 62px;
+  position: absolute;
+  top: 55px;
+  width: 11px;
+}
+
+.component .group-8 {
+  height: 32px;
+  left: 755px;
+  position: absolute;
+  top: 26px;
+  width: 154px;
+}
+
+.component .group-9 {
+  height: 29px;
+  left: 43px;
+  position: absolute;
+  top: 0;
+  width: 111px;
+}
+
+.component .group-10 {
+  height: 27px;
+  left: 86px;
+  position: absolute;
+  top: 1px;
+  width: 25px;
+}
+
+.component .overlap-group-4 {
+  height: 27px;
+  position: relative;
+}
+
+.component .notification {
+  height: 27px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.component .group-11 {
+  height: 22px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 23px;
+}
+
+.component .fill {
+  height: 3px;
+  left: 8px;
+  position: absolute;
+  top: 24px;
+  width: 8px;
+}
+
+.component .vector-3 {
+  height: 10px;
+  left: 15px;
+  position: absolute;
+  top: 1px;
+  width: 10px;
+}
+
+.component .group-12 {
+  height: 26px;
+  left: 44px;
+  position: absolute;
+  top: 1px;
+  width: 28px;
+}
+
+.component .group-13 {
+  height: 29px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 29px;
+}
+
+.component .healthicons-money {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 32px;
+}

@@ -1,0 +1,1 @@
+export { IcCaratDown } from "./IcCaratDown";
